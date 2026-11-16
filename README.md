@@ -1,7 +1,7 @@
 # 👋 Fred Scotts — Founder @ ScottsTechX
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2300ff88&size=28&center=true&vCenter=true&width=600&lines=Cybersecurity+Researcher+%7C+Bug+Bounty+Hunter+%7C+CTF+Player" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2300ff88&size=28&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+Backend+Engineer+%7C+Open-Source+Builder" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -13,73 +13,73 @@
 
 ---
 
-## 🔐 Cybersecurity Researcher
+## 💻 Software Developer
 
 ```
-████████╗██╗  ██╗███████╗    ██████╗ ██╗  ██╗██╗██████╗ ██╗███╗   ██╗███████╗
-╚══██╔══╝██║  ██║██╔════╝    ██╔══██╗██║  ██║██║██╔══██╗██║████╗  ██║██╔════╝
-   ██║   ███████║█████╗      ██████╔╝███████║██║██████╔╝██║██╔██╗ ██║███████╗
-   ██║   ██╔══██║██╔══╝      ██╔═══╝ ██╔══██║██║██╔══██╗██║██║╚██╗██║╚════██║
-   ██║   ██║  ██║███████╗    ██║     ██║  ██║██║██║  ██║██║██║ ╚████║███████║
-   ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚═╝     ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚══════╝
+███████╗ ██████╗ ██████╗ ████████╗███████╗████████╗██╗  ██╗██╗  ██╗
+██╔════╝██╔═══██╗██╔══██╗╚══██╔══╝██╔════╝╚══██╔══╝██║  ██║██║ ██╔╝
+███████╗██║   ██║██████╔╝   ██║   ███████╗   ██║   ███████║█████╔╝
+╚════██║██║   ██║██╔══██╗   ██║   ██╔════╝   ██║   ╚════██║╚██╔╝ 
+██╔═══██║╚██████╔╝██║  ██║   ██║   ███████╗   ██║   ███████║ ╚██╔╝ 
+╚═╝   ╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚══════╝   ╚═╝   ╚══════╝  ╚═╝  
 ```
 
-- 🎯 **Bug Bounty Hunter** — Responsible disclosure, CVEs
-- 🏆 **CTF Player** — Active competitor, red team specialist
-- 💻 **Penetration Tester** — Network, web app, mobile, API security
-- 🛡️ **Red Team Ops** — Adversarial simulation, social engineering
+- 🌐 **Full-Stack Web Developer** — Node.js, Express, NestJS, React, HTML/CSS
+- 🗄️ **Backend & Data** — REST APIs, PostgreSQL, SQLite, Prisma, schema design
+- 🚢 **DevOps & Cloud** — Docker, Kubernetes, Terraform, Ansible, CI/CD
+- 📱 **Mobile** — Capacitor / Android clients sharing one web codebase
 
-**Tools:** Nmap • Burp Suite • Metasploit • SQLMap • Hydra • Wireshark • Gobuster • Nikto • John • Hashcat • LinPEAS • WinPEAS
+**Stack:** Node.js • Express • NestJS • TypeScript • JavaScript • React • PostgreSQL • SQLite • Prisma • Python • Bash • Docker • Kubernetes • Terraform • Ansible • Git • GitHub Actions
 
 ---
 
-## 🚀 ScottsTechX — We Build Tools for the Community
-
-> _"Tools that empower the cybersecurity community, one commit at a time."_
+## 🚀 Projects
 
 <p align="center">
+  <a href="https://github.com/fredscottsbulls/ScottsTechX">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fredscottsbulls&repo=ScottsTechX&theme=radical&border_color=00ff88&border_radius=10&title_color=00ff88&text_color=ffffff" alt="ScottsTechX" width="48%"/>
+  </a>
   <a href="https://github.com/fredscottsbulls/ScottsTechX-Tool-Installer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=fredscottsbulls&repo=ScottsTechX-Tool-Installer&theme=radical&border_color=00ff88&border_radius=10&title_color=00ff88&text_color=ffffff" alt="Tool Installer" width="48%"/>
   </a>
-  <a href="https://github.com/fredscottsbulls">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fredscottsbulls&repo=ScottsTechX&theme=radical&border_color=00ff88&border_radius=10&title_color=00ff88&text_color=ffffff" alt="ScottsTechX" width="48%"/>
-  </a>
 </p>
 
-- 🔥 **[ScottsTechX Tool Installer](https://github.com/fredscottsbulls/ScottsTechX-Tool-Installer)** — 30+ tools, one command
-- 🔒 **30+ individual tool repos** — Nmap, Burp, Metasploit, SQLMap, and more
-- 🌐 **[ScottsTechX Site](https://fredscottsbulls.github.io/scottechx-site)** — Official website
-- 📦 **More tools coming soon** — Follow for updates
+- 🏫 **Kalinabiri Secondary School Platform** — full-stack school management system (Express + SQLite backend, static frontend, REST API)
+- 📚 **Kalibz International Web** — NestJS + Prisma + PostgreSQL school-management product with roles, guards, and modules
+- 🔌 **ScottsTechX Backend API** — Express API service with Docker and Railway deployment config
+- 📱 **ScottsTechX Client** — Capacitor Android app sharing a web codebase
+- 🛠️ **[ScottsTechX Tool Installer](https://github.com/fredscottsbulls/ScottsTechX-Tool-Installer)** — 20+ developer tools, one command
+- 🌐 **[ScottsTechX Site](https://fredscottsbulls.github.io/scottechx-site)** — official website
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│  LANGUAGES     │  SECURITY         │  DEVOPS          │  WEB               │
-│  ─────────────  │  ─────────────    │  ─────────────   │  ─────────────     │
-│  Python         │  Nmap             │  Docker          │  HTML/CSS          │
-│  JavaScript     │  Burp Suite       │  Kubernetes      │  Node.js           │
-│  Bash           │  Metasploit       │  Terraform       │  Express           │
-│  PowerShell     │  SQLMap           │  Ansible         │  React             │
-│  Go             │  Wireshark        │  GitHub Actions  │  REST APIs         │
-│  YARA           │  OWASP ZAP        │  CI/CD           │  SQL/NoSQL         │
+│  BACKEND        │  FRONTEND      │  DEVOPS         │  DATA               │
+│  ─────────────  │  ────────────  │  ─────────────  │  ──────────────     │
+│  Node.js        │  React         │  Docker         │  PostgreSQL         │
+│  Express        │  HTML/CSS      │  Kubernetes     │  SQLite             │
+│  NestJS         │  Capacitor     │  Terraform      │  Prisma             │
+│  REST APIs      │  Responsive    │  Ansible        │  Schema design      │
+│  Python         │  GitHub Pages  │  CI/CD          │  Migrations         │
+│  Bash           │  Netlify       │  Railway/Vercel │  Query tuning       │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -104,11 +104,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=fredscottsbulls&theme=radical&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" alt="Trophies"/>
 </p>
 
-- 🏅 **30+ Open Source Projects** — ScottsTechX tool suite
-- 🛡️ **Active Security Researcher** — CVEs, responsible disclosure
-- 💻 **Full-Stack Developer** — end-to-end web & CLI applications
-- 🌟 **GitHub Stars Growing** — community-driven development
-- 📈 **Consistent Contributor** — daily commits, active maintainer
+- 💻 **Full-Stack Developer** — end-to-end web, backend & CLI applications
+- 🏫 **Education Tech** — shipping platforms used by real schools
+- 🐳 **DevOps in Production** — Docker, Kubernetes, Terraform, managed deploys
+- 🌟 **Open Source** — community-driven developer tooling
+- 📈 **Consistent Contributor** — active maintainer, regular releases
 
 ---
 
@@ -132,7 +132,7 @@
 ---
 
 <p align="center">
-  ⭐ From <b>ScottsTechX</b> with 🔐 — Building tools that empower the cybersecurity community
+  ⭐ From <b>ScottsTechX</b> — Building software that solves real problems
 </p>
 
 <p align="center">
